@@ -129,10 +129,10 @@ NASA Space Apps permite usar IA y exige indicar dónde y cómo se usó. Las imá
 |---|---|
 | **Claude (Anthropic)** | Código HTML/CSS/JS, simulación 3D, extracción y orden de datos NASA, redacción de historias y guion, personajes SVG. |
 | **Gemini (Google)** | Logo de María 2. La imagen lleva la marca "Imagen generada con IA". |
-| **ChatGPT (OpenAI)** | *[Confirmar uso]* |
+| **ChatGPT (OpenAI)** | *Promps, redacciones y busquedas* |
 
 Todo el contenido generado con IA fue revisado por el equipo y contrastado con fuentes de la NASA.
 
 ## 8. Equipo María 2
 
-Emanuel González Mazo (propietario) · Luciana Madrigal Cuartas · Koraima Restrepo · Josué Marín Hernández · Junior Alejandro Valencia Ramírez · Julio Vieira Donado — Colombia.
+Emanuel González Mazo · Luciana Madrigal Cuartas · Koraima Restrepo · Josué Marín Hernández · Junior Alejandro Valencia Ramírez · Julio Vieira Donado — Colombia.
