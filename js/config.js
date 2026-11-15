@@ -5,7 +5,7 @@ window.CONFIG = {
   repo: 'https://github.com/AdrianVieiraDon/Maria2-exploration',
   demo: 'https://maria2-explorer.vercel.app/',
   videoSimulacion: 'https://youtu.be/H3B46gzdCgE',
-  videoPitch: '',
+  videoPitch: 'https://youtu.be/9EMHRxAiym8',
   anexos: [
     { titulo: 'Exploración de Marte y la Luna: equipos activos, inactivos y lecciones de diseño', archivo: 'anexos/Investigacion_astronomia_2.pdf', paginas: 64,
       desc: 'Investigación completa del equipo: el airbag y el rover de Mars Pathfinder, la clasificación de los equipos en Marte, cómo mejorar su diseño y la exploración lunar hasta el Apolo 11. Referencias en APA 7.',
