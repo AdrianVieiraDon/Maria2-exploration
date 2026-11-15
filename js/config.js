@@ -21,7 +21,7 @@ window.CONFIG = {
   ],
   // Herramientas de IA usadas (sección "Uso de inteligencia artificial"). Agreguen o quiten según lo que realmente usaron.
   ia: [
-    { nombre: 'Claude (Anthropic)', uso: 'Programación y diseño de la página', detalle: ['Escribir el código HTML, CSS y JavaScript, la simulación 3D con Three.js, el rastreador y la TV', 'Extraer y ordenar datos de catálogos de la NASA (NSSDCA, LRO, Marte)', 'Redactar las historias cortas y el guion de los narradores, revisados por el equipo', 'Dibujar como código SVG a los personajes Sury y Oppy'] },
+    { nombre: 'Claude (Anthropic)', uso: 'Programación y diseño de la página', detalle: ['Escribir el código HTML, CSS y JavaScript, la simulación 3D con Three.js, el rastreador y la TV', 'Redactar las historias cortas y el guion de los narradores, revisados por el equipo', 'Dibujar como código SVG a los personajes Sury y Oppy'] },
     { nombre: 'Gemini (Google)', uso: 'Imagen del logo', detalle: ['Generar el logo de María 2 (la imagen lleva una marca visible de IA)'] },
     { nombre: 'ChatGPT (OpenAI)', uso: 'Redaccion y bùsqueda', detalle: ['[Ej.: apoyo en la redacción de los documentos de investigación]'] }
   ]
