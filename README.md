@@ -5,7 +5,7 @@
 **Rastreador interactivo de los equipos que la humanidad ha dejado en la Luna, en Marte y en el resto del sistema solar.**
 Equipo **María 2** · Institución Educativa de María · NASA International Space Apps Challenge 2026 · Reto: *NASA's Discarded Equipment Storytelling*.
 
-🔗 **Demo:** `https://TU-PROYECTO.vercel.app` · 📁 **Repositorio:** `https://github.com/AdrianVieiraDon/NOMBRE-DEL-REPO`
+🔗 **Demo:** `https://TU-PROYECTO.vercel.app` · 📁 **Repositorio:** `https://github.com/AdrianVieiraDon/Maria2-exploration`
 
 ---
 
@@ -45,7 +45,6 @@ maria-site-2/
 │       └── imagenes-equipo.js
 ├── assets/img/                # Logos, portadas e imágenes del equipo
 ├── anexos/                    # PDF de investigación
-└── docs/                      # GUION.md y PREGUNTAS.md para la exposición
 ```
 
 ## 3. Cómo ejecutarlo
